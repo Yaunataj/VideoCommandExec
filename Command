@@ -1,0 +1,1 @@
+startvideo --At-boot
